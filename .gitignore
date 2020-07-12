@@ -1,0 +1,17 @@
+node_modules
+yarn.lock
+yarn-error.log
+package.lock
+dist
+build
+.env
+.env.production
+.env.test
+.env.development
+.DS_Store
+coverage
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
