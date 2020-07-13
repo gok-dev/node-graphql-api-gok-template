@@ -1,4 +1,6 @@
-<h1 align="center">Node + GraphQL API Template</h1>
+<div>
+  <h1 align="center">Node + GraphQL API Template</h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=NodeJS&message=framework&color=green&style=for-the-badge&logo=NODEJS"/>
@@ -6,6 +8,8 @@
 <!--   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/> -->
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
+
+<p align-"center">Este template utiliza 100% TypeScript</p>
 
 Este template foi criado utilizando NodeJS, Knex e GraphQL e visa otimizar tempo em configurações inciais do projeto que pode ser bem demorado.
 
