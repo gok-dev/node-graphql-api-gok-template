@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=NodeJS&message=framework&color=green&style=for-the-badge&logo=NODEJS"/>
+  <img src="https://img.shields.io/static/v1?label=GraphQL&message=language&color=e535ab&style=for-the-badge&logo=GRAPHQL"/>
+  <img src="https://img.shields.io/static/v1?label=TypeScript&message=superset&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 <!--   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/> -->
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
