@@ -1,5 +1,5 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/0eb11725f0b01ea85fb7/maintainability)](https://codeclimate.com/github/gok-dev/node-graphql-api-gok-template/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/0eb11725f0b01ea85fb7/test_coverage)](https://codeclimate.com/github/gok-dev/node-graphql-api-gok-template/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/56cf6c75aba5282c6c57/maintainability)](https://codeclimate.com/github/gok-dev/node-graphql-api-gok-template/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/56cf6c75aba5282c6c57/test_coverage)](https://codeclimate.com/github/gok-dev/node-graphql-api-gok-template/test_coverage)
 
 <div>
   <h1 align="center">Node + GraphQL API Template</h1>
