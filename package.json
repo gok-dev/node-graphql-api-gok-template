@@ -50,7 +50,7 @@
     "@types/nodemailer": "^6.4.0",
     "@types/pg": "^7.14.3",
     "@types/socket.io": "^2.1.8",
-    "eslint": "^5.16.0",
+    "eslint": "^7.17.0",
     "jest": "^26.1.0",
     "jest-cli": "^26.1.0",
     "nodemon": "^2.0.4",
